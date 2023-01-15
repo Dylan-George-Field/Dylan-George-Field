@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dylan-George-Field
 - 👀 I’m interested in [adventure riding](https://adventure.georgefield.com.au), software and the car industry
 - 🌱 I’m currently learning AWS, docker & react.js
-- 💞️ I’m looking to collaborate on wfh-log.com
+- 💞️ I’m looking to collaborate on www.wfh-log.com
 - 📫 You can reach me at www.georgefield.com.au/contact
 
 <!---
